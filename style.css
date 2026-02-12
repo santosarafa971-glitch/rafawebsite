@@ -1,7 +1,7 @@
 
 body{
-  background:#f3f3f3;
-  color:#59a8d9;
+  background:#ad3d3d;
+  color:#f3f3f3;
   width:100%;
   font-family:sans-serif;
   margin:0 auto;
@@ -11,7 +11,7 @@ body{
   margin:auto;
   height:120px;
   line-height:120px;
-  backgroun:#6495ED;
+  backgroun:#ad3d3d;
   color:#5F9EA0;
 }
 .jarak{
@@ -34,6 +34,7 @@ body{
   color:#fff;
   text-decoration:none;
 }
+
 
 
 
